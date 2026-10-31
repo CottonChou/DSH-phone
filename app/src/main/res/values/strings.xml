@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DSH-phone</string>
+    <string name="a11y_description">DSH-phone 手机助理：读取屏幕内容并代你点击、输入，完成你交代的任务。银行类应用会被安全策略拦截。</string>
+</resources>
