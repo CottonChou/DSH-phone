@@ -2,7 +2,7 @@
 
 本文按代码现状描述 DSH-phone 的结构。
 
-路径缩写：`core/…` = `core/src/main/kotlin/com/cottonchou/dshphone/core/`，`app/…` = `app/src/main/java/com/cottonchou/dshphone/`。
+路径缩写：`core/…` = `core/src/main/kotlin/com/solace/dshphone/core/`，`app/…` = `app/src/main/java/com/solace/dshphone/`。
 
 ## 1. 模块与分层
 

@@ -6,15 +6,15 @@ plugins {
 }
 
 android {
-    namespace = "com.cottonchou.dshphone"
+    namespace = "com.solace.dshphone"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.cottonchou.dshphone"
+        applicationId = "com.solace.dshphone"
         minSdk = 28
         targetSdk = 35
-        versionCode = 1
-        versionName = "0.1.0"
+        versionCode = 2
+        versionName = "0.1.1"
         testInstrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
     }
 
